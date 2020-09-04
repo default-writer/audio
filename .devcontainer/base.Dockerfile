@@ -66,5 +66,5 @@ RUN apt install curl gnupg \
 ###
 ### mp3wrap & ffmpeg
 ###
-RUN apt-get install gnupg mp3wrap ffmpeg -y
+RUN apt-get install -y gnupg mp3wrap ffmpeg
 
