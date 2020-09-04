@@ -1,6 +1,10 @@
 # Prerequisites
 *.d
 
+# Audio files
+*.mp3
+*.webm
+
 # Object files
 *.o
 *.ko
