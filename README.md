@@ -21,4 +21,3 @@ find . -type f -iname "*.webm" -exec bash -c 'FILE="$1"; ffmpeg -i "${FILE}" -vn
 ```bash
 mp3wrap "${FILE}" *.mp3
 ```
-`
